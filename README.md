@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at IBM
+- 🔭 I’m currently open to work!
 - 🌱 I’m currently learning HTML, CSS, JavaScript/TypeScript, React, Node and SQL
 - 🧠 I have experience coding with C# for Unity Game Development and Java
 <!-- - 👯 I’m looking to collaborate on ... 
