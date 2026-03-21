@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently open to work!
-- 🌱 I’m currently learning Back-End with C#/Java and Front-End with HTML, CSS, JavaScript/TypeScript, React, Node and SQL
+- 🌱 I’m currently learning Back-End with C#, Java, Node and SQL and Front-End with HTML, CSS, JavaScript/TypeScript and React 
 - 🧠 I have experience coding with C# for Unity Game Development
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
