@@ -1,12 +1,12 @@
-### Hi there 👋
+### Olá, visitante 👋
 
-- 🔭 I’m currently open to work!
-- 🌱 I’m currently learning Back-End with C#, Java, Node and SQL and Front-End with HTML, CSS, JavaScript/TypeScript, React and Angular 
-- 🧠 I also have experience coding with C# for Unity Game Development
+- 🔭 Atualmente eu estou aberto para oportunidades de trabalho!
+- 🌱 Estou estudando back-end com C#, Java, Node e SQL e front-end com HTML, CSS, JavaScript, TypeScript, React e Angular 
+- 🧠 Eu também possuo experiência em desenvolvimento de jogos com Unity e C#
+- 📫 Como me contatar: mateuzfp25@gmail.com
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... !-->
 
